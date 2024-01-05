@@ -1,5 +1,5 @@
 {
-  "name": "node-first-app",
+  "name": "02-assignment",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -9,10 +9,10 @@
   },
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "nodemon": "^3.0.2"
-  },
   "dependencies": {
     "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
   }
 }
