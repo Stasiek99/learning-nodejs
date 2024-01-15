@@ -1,6 +1,6 @@
 # Node.js Learning Repository
 
-This repository serves as a documentation of my Node.js learning journey. Here, I'm recording the process, code snippets, and insights gained as I delve into the world of Node.js development.
+This repository serves as a documentation of my Node.js learning journey. Here, I'm recording the process, code snippets as I delve into the world of Node.js development.
 
 ## Getting Started
 
